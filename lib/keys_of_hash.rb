@@ -3,9 +3,9 @@ class Hash
     array = []
     self.each do |key, value|
       if value == arguments
-          array << key
+        array << key
       end
     end
-    puts array
+    array
   end
 end
