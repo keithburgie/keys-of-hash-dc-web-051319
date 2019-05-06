@@ -4,4 +4,4 @@ class Hash
     array << key(arguments)
     array
   end
-end
+end 
